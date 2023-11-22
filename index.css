@@ -1,11 +1,10 @@
 html {
     box-sizing: border-box;
     font-family: "Padauk", sans-serif;
-  }
+}
   
   *,
-  *::before,
-  *::after {
+  *::before, *::after {
     box-sizing: inherit;
   }
   
@@ -116,3 +115,4 @@ html {
   footer p {
     margin: 0.05in;
   }
+
